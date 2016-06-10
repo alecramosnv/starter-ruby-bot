@@ -1,6 +1,6 @@
-name: Beepboop Starterbot
-description: A simple Ruby bot starter for Beep Boop
-avatar: resources/avatar.png
+name: Chappie
+description: Chappie Slack Bot!
+avatar: http://www.geekbinge.com/wp-content/uploads/2014/11/Chappie-Trailer.png
 #background: resources/background.png
 #config:
 #  - name: OPTION
